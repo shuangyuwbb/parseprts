@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FsPart>
+	<Blocks Handle="6"/>
+	<NestParts>
+		<TGksNestOriginPart Handle="9528" Name="M225,M226拆解图B2" ID="{8775D547-52A7-4354-B366-805D9F55EBEC}" PortionName="M225,M226拆解图B2" ColorIdx="152" Color="12607488" OutlineID="9552" UUID="{8775D547-52A7-4354-B366-805D9F55EBEC}" FullPath="C:\Users\Alex\Documents\M225,M226拆解图.dxf" Class="NestOriginPart">
+			<ExtMin/>
+			<ExtMax X="3500" Y="94"/>
+			<Entities Handle="9541">
+				<LwPolyline Handle="9542" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" PathStartParam="3" PointCount="6" PolyFlag="3">
+					<Point X="514.43376" Y="50"/>
+					<Point X="507.21688" Y="37.5"/>
+					<Point X="492.78312" Y="37.5"/>
+					<Point X="485.56624" Y="50"/>
+					<Point X="492.78312" Y="62.5"/>
+					<Point X="507.21688" Y="62.5"/>
+				</LwPolyline>
+				<LwPolyline Handle="9543" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" PathStartParam="3" PointCount="6" PolyFlag="1">
+					<Point X="614.43376" Y="50"/>
+					<Point X="607.21688" Y="37.5"/>
+					<Point X="592.78312" Y="37.5"/>
+					<Point X="585.56624" Y="50"/>
+					<Point X="592.78312" Y="62.5"/>
+					<Point X="607.21688" Y="62.5"/>
+				</LwPolyline>
+				<LwPolyline Handle="9544" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" PathStartParam="3" PointCount="6" PolyFlag="3">
+					<Point X="1114.4338" Y="50"/>
+					<Point X="1107.2169" Y="37.5"/>
+					<Point X="1092.7831" Y="37.5"/>
+					<Point X="1085.5662" Y="50"/>
+					<Point X="1092.7831" Y="62.5"/>
+					<Point X="1107.2169" Y="62.5"/>
+				</LwPolyline>
+				<LwPolyline Handle="9545" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" PathStartParam="3" PointCount="6" PolyFlag="3">
+					<Point X="1214.4338" Y="50"/>
+					<Point X="1207.2169" Y="62.5"/>
+					<Point X="1192.7831" Y="62.5"/>
+					<Point X="1185.5662" Y="50"/>
+					<Point X="1192.7831" Y="37.5"/>
+					<Point X="1207.2169" Y="37.5"/>
+				</LwPolyline>
+				<LwPolyline Handle="9546" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" PathStartParam="3" PointCount="6" PolyFlag="1">
+					<Point X="1714.4338" Y="50"/>
+					<Point X="1707.2169" Y="37.5"/>
+					<Point X="1692.7831" Y="37.5"/>
+					<Point X="1685.5662" Y="50"/>
+					<Point X="1692.7831" Y="62.5"/>
+					<Point X="1707.2169" Y="62.5"/>
+				</LwPolyline>
+				<LwPolyline Handle="9547" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" PathStartParam="3" PointCount="6" PolyFlag="3">
+					<Point X="1814.4338" Y="50"/>
+					<Point X="1807.2169" Y="62.5"/>
+					<Point X="1792.7831" Y="62.5"/>
+					<Point X="1785.5662" Y="50"/>
+					<Point X="1792.7831" Y="37.5"/>
+					<Point X="1807.2169" Y="37.5"/>
+				</LwPolyline>
+				<LwPolyline Handle="9548" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" PathStartParam="3" PointCount="6" PolyFlag="3">
+					<Point X="2314.4338" Y="50"/>
+					<Point X="2307.2169" Y="37.5"/>
+					<Point X="2292.7831" Y="37.5"/>
+					<Point X="2285.5662" Y="50"/>
+					<Point X="2292.7831" Y="62.5"/>
+					<Point X="2307.2169" Y="62.5"/>
+				</LwPolyline>
+				<LwPolyline Handle="9549" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" PathStartParam="3" PointCount="6" PolyFlag="1">
+					<Point X="2414.4338" Y="50"/>
+					<Point X="2407.2169" Y="37.5"/>
+					<Point X="2392.7831" Y="37.5"/>
+					<Point X="2385.5662" Y="50"/>
+					<Point X="2392.7831" Y="62.5"/>
+					<Point X="2407.2169" Y="62.5"/>
+				</LwPolyline>
+				<LwPolyline Handle="9550" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" PathStartParam="3" PointCount="6" PolyFlag="1">
+					<Point X="2914.4338" Y="50"/>
+					<Point X="2907.2169" Y="62.5"/>
+					<Point X="2892.7831" Y="62.5"/>
+					<Point X="2885.5662" Y="50"/>
+					<Point X="2892.7831" Y="37.5"/>
+					<Point X="2907.2169" Y="37.5"/>
+				</LwPolyline>
+				<LwPolyline Handle="9551" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" PathStartParam="3" PointCount="6" PolyFlag="1">
+					<Point X="3014.4338" Y="50"/>
+					<Point X="3007.2169" Y="37.5"/>
+					<Point X="2992.7831" Y="37.5"/>
+					<Point X="2985.5662" Y="50"/>
+					<Point X="2992.7831" Y="62.5"/>
+					<Point X="3007.2169" Y="62.5"/>
+				</LwPolyline>
+				<LwPolyline Handle="9552" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" SeqLevel="1024" LinearName="Continuous" IsFill="true" LeadInOptimizeFlag="6" PointCount="4" PolyFlag="1">
+					<Point Y="94"/>
+					<Point X="3500" Y="94"/>
+					<Point X="3500"/>
+					<Point/>
+				</LwPolyline>
+				<Text Handle="9553" ColorIdx="98" Color="4227072" LayerName="打标线" BaseHeight="9323" FontName="tssdeng" Height="25" WidthFactor=".7">M225-11-1
+					<AlignPos X="722.08972" Y="29.672177"/>
+					<AlignPos2/>
+				</Text>
+				<TopNode>
+					<ShapeNode Handle="9529" Shape="9542"/>
+					<ShapeNode Handle="9530" Shape="9543"/>
+					<ShapeNode Handle="9531" Shape="9544"/>
+					<ShapeNode Handle="9532" Shape="9545"/>
+					<ShapeNode Handle="9533" Shape="9546"/>
+					<ShapeNode Handle="9534" Shape="9547"/>
+					<ShapeNode Handle="9535" Shape="9548"/>
+					<ShapeNode Handle="9536" Shape="9549"/>
+					<ShapeNode Handle="9537" Shape="9550"/>
+					<ShapeNode Handle="9538" Shape="9551"/>
+					<ShapeNode Handle="9539" Shape="9552"/>
+					<ShapeNode Handle="9540" Shape="9553"/>
+				</TopNode>
+			</Entities>
+			<HomeRef RefType="3"/>
+			<BasePoint/>
+		</TGksNestOriginPart>
+	</NestParts>
+</FsPart>
+                                                                                                                                            

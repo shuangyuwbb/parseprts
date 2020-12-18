@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FsPart>
+	<Blocks Handle="6"/>
+	<NestParts>
+		<TGksNestOriginPart Handle="9318" Name="M225,M226拆解图T1" ID="{72AE8AB8-476F-43D4-BAD8-14914E20EA29}" PortionName="M225,M226拆解图T1" ColorIdx="152" Color="12607488" OutlineID="9322" UUID="{72AE8AB8-476F-43D4-BAD8-14914E20EA29}" FullPath="C:\Users\Alex\Documents\M225,M226拆解图.dxf" Class="NestOriginPart">
+			<ExtMin/>
+			<ExtMax X="120" Y="172"/>
+			<Entities Handle="9321">
+				<LwPolyline Handle="9322" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" SeqLevel="1024" LinearName="Continuous" IsFill="true" LeadInOptimizeFlag="6" PathStartParam="3" PointCount="4" PolyFlag="1">
+					<Point X="120" Y="172"/>
+					<Point Y="172"/>
+					<Point/>
+					<Point X="120"/>
+				</LwPolyline>
+				<Text Handle="9323" ColorIdx="98" Color="4227072" LayerName="打标线" BaseHeight="100" FontName="tssdeng.shx" Height="25" WidthFactor=".7">M226-5
+					<AlignPos X="19.08101" Y="123.60695"/>
+					<AlignPos2/>
+				</Text>
+				<TopNode>
+					<ShapeNode Handle="9319" Shape="9322"/>
+					<ShapeNode Handle="9320" Shape="9323"/>
+				</TopNode>
+			</Entities>
+			<HomeRef RefType="3"/>
+			<BasePoint/>
+		</TGksNestOriginPart>
+	</NestParts>
+</FsPart>
+                                                                                                                                                                                                                                                                        

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FsPart>
+	<Blocks Handle="6"/>
+	<NestParts>
+		<TGksNestOriginPart Handle="9053" Name="M225,M226拆解图J1" ID="{317FEBE1-770A-4A56-95A1-C5D6271041F6}" PortionName="M225,M226拆解图J1" ColorIdx="152" Color="12607488" OutlineID="9063" UUID="{317FEBE1-770A-4A56-95A1-C5D6271041F6}" FullPath="C:\Users\Alex\Documents\M225,M226拆解图.dxf" Class="NestOriginPart">
+			<ExtMin/>
+			<ExtMax X="94" Y="620"/>
+			<Entities Handle="9059">
+				<LwPolyline Handle="9060" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" PathStartParam="2" PointCount="6" PolyFlag="3">
+					<Point X="63.101162" Y="57.216878"/>
+					<Point X="63.101162" Y="42.783122"/>
+					<Point X="50.737535" Y="35.566243"/>
+					<Point X="38.373907" Y="42.783122"/>
+					<Point X="38.373907" Y="57.216878"/>
+					<Point X="50.737535" Y="64.433757"/>
+				</LwPolyline>
+				<LwPolyline Handle="9061" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" PathStartParam="4" PointCount="6" PolyFlag="1">
+					<Point X="64.99159" Y="309.1948"/>
+					<Point X="58.554275" Y="322.07794"/>
+					<Point X="44.300219" Y="322.88313"/>
+					<Point X="36.483479" Y="310.8052"/>
+					<Point X="42.920795" Y="297.92206"/>
+					<Point X="57.17485" Y="297.11687"/>
+				</LwPolyline>
+				<LwPolyline Handle="9062" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" PathStartParam="4" PointCount="6" PolyFlag="3">
+					<Point X="63.101162" Y="577.21688"/>
+					<Point X="50.737535" Y="584.43376"/>
+					<Point X="38.373907" Y="577.21688"/>
+					<Point X="38.373907" Y="562.78312"/>
+					<Point X="50.737535" Y="555.56624"/>
+					<Point X="63.101162" Y="562.78312"/>
+				</LwPolyline>
+				<LwPolyline Handle="9063" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" SeqLevel="1024" LinearName="Continuous" IsFill="true" LeadInOptimizeFlag="6" PathStartParam="3" PointCount="4" PolyFlag="1">
+					<Point X="94" Y="620"/>
+					<Point Y="620"/>
+					<Point/>
+					<Point X="94"/>
+				</LwPolyline>
+				<Text Handle="9064" ColorIdx="98" Color="4227072" LayerName="打标线" BaseHeight="100" FontName="tssdeng.shx" Height="25" Rotation="90" WidthFactor=".7">M226-9-2
+					<AlignPos X="58.575043" Y="406.48675"/>
+					<AlignPos2/>
+				</Text>
+				<TopNode>
+					<ShapeNode Handle="9054" Shape="9060"/>
+					<ShapeNode Handle="9055" Shape="9061"/>
+					<ShapeNode Handle="9056" Shape="9062"/>
+					<ShapeNode Handle="9057" Shape="9063"/>
+					<ShapeNode Handle="9058" Shape="9064"/>
+				</TopNode>
+			</Entities>
+			<HomeRef RefType="3"/>
+			<BasePoint/>
+		</TGksNestOriginPart>
+	</NestParts>
+</FsPart>
+                                                                                                                                                                                                                                                                       

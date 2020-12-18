@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FsPart>
+	<Blocks Handle="6"/>
+	<NestParts>
+		<TGksNestOriginPart Handle="10438" Name="M225,M226拆解图D3" ID="{9DE80437-988A-488B-8307-799FB2082130}" PortionName="M225,M226拆解图D3" ColorIdx="152" Color="12607488" OutlineID="10446" UUID="{9DE80437-988A-488B-8307-799FB2082130}" FullPath="C:\Users\Alex\Documents\M225,M226拆解图.dxf" Class="NestOriginPart">
+			<ExtMin/>
+			<ExtMax X="450" Y="94"/>
+			<Entities Handle="10443">
+				<LwPolyline Handle="10444" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" PathStartParam="3" PointCount="6" PolyFlag="3">
+					<Point X="114.43376" Y="49.998052"/>
+					<Point X="107.21688" Y="62.498052"/>
+					<Point X="92.783122" Y="62.498052"/>
+					<Point X="85.566243" Y="49.998052"/>
+					<Point X="92.783122" Y="37.498052"/>
+					<Point X="107.21688" Y="37.498052"/>
+				</LwPolyline>
+				<LwPolyline Handle="10445" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" PathStartParam="3" PointCount="6" PolyFlag="1">
+					<Point X="214.43376" Y="49.998052"/>
+					<Point X="207.21688" Y="37.498052"/>
+					<Point X="192.78312" Y="37.498052"/>
+					<Point X="185.56624" Y="49.998052"/>
+					<Point X="192.78312" Y="62.498052"/>
+					<Point X="207.21688" Y="62.498052"/>
+				</LwPolyline>
+				<LwPolyline Handle="10446" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" SeqLevel="1024" LinearName="Continuous" IsFill="true" LeadInOptimizeFlag="6" PointCount="4" PolyFlag="1">
+					<Point Y="94"/>
+					<Point X="450" Y="94"/>
+					<Point X="450"/>
+					<Point/>
+				</LwPolyline>
+				<Text Handle="10447" ColorIdx="98" Color="4227072" LayerName="打标线" BaseHeight="9323" FontName="tssdeng" Height="25" WidthFactor=".7">M225-8
+					<AlignPos X="293.51949" Y="41.464196"/>
+					<AlignPos2/>
+				</Text>
+				<TopNode>
+					<ShapeNode Handle="10439" Shape="10444"/>
+					<ShapeNode Handle="10440" Shape="10445"/>
+					<ShapeNode Handle="10441" Shape="10446"/>
+					<ShapeNode Handle="10442" Shape="10447"/>
+				</TopNode>
+			</Entities>
+			<HomeRef RefType="3"/>
+			<BasePoint/>
+		</TGksNestOriginPart>
+	</NestParts>
+</FsPart>
+                                                                                                                                                                                                                                                                                       

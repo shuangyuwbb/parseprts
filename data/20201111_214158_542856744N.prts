@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FsPart>
+	<Blocks Handle="6"/>
+	<NestParts>
+		<TGksNestOriginPart Handle="9658" Name="M225,M226拆解图F2" ID="{8022588C-B8DF-459A-90CC-0C8A5F924C4B}" PortionName="M225,M226拆解图F2" ColorIdx="152" Color="12607488" OutlineID="9666" UUID="{8022588C-B8DF-459A-90CC-0C8A5F924C4B}" FullPath="C:\Users\Alex\Documents\M225,M226拆解图.dxf" Class="NestOriginPart">
+			<ExtMin/>
+			<ExtMax X="450" Y="94"/>
+			<Entities Handle="9663">
+				<Circle Handle="9664" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" Radius="8" PathStartParam=".097222222" StartAngle=".78539816">
+					<Center X="50" Y="50"/>
+				</Circle>
+				<Circle Handle="9665" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" Radius="8" PathStartParam=".53373016" StartAngle=".78539816">
+					<Center X="390" Y="50"/>
+				</Circle>
+				<LwPolyline Handle="9666" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" SeqLevel="1024" LinearName="Continuous" IsFill="true" LeadInOptimizeFlag="6" PathStartParam="1" PointCount="4" PolyFlag="1">
+					<Point X="450" Y="94"/>
+					<Point Y="94"/>
+					<Point/>
+					<Point X="450"/>
+				</LwPolyline>
+				<Text Handle="9667" ColorIdx="98" Color="4227072" LayerName="打标线" BaseHeight="100" FontName="tssdeng.shx" Height="25" WidthFactor=".7">M226-8
+					<AlignPos X="185.80007" Y="40.212122"/>
+					<AlignPos2/>
+				</Text>
+				<TopNode>
+					<ShapeNode Handle="9659" Shape="9664"/>
+					<ShapeNode Handle="9660" Shape="9665"/>
+					<ShapeNode Handle="9661" Shape="9666"/>
+					<ShapeNode Handle="9662" Shape="9667"/>
+				</TopNode>
+			</Entities>
+			<HomeRef RefType="3"/>
+			<BasePoint/>
+		</TGksNestOriginPart>
+	</NestParts>
+</FsPart>
+                                                                                                                                                                                                          

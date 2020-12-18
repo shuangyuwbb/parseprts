@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FsPart>
+	<Blocks Handle="6"/>
+	<NestParts>
+		<TGksNestOriginPart Handle="9998" Name="M225,M226拆解图R2" ID="{5FA96B78-F50F-4048-A395-404D0193C6AD}" PortionName="M225,M226拆解图R2" ColorIdx="152" Color="12607488" OutlineID="10020" UUID="{5FA96B78-F50F-4048-A395-404D0193C6AD}" FullPath="C:\Users\Alex\Documents\M225,M226拆解图.dxf" Class="NestOriginPart">
+			<ExtMin/>
+			<ExtMax X="4030" Y="94"/>
+			<Entities Handle="10010">
+				<Circle Handle="10011" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" Radius="20" PathStartParam=".34484925" StartAngle=".78539816">
+					<Center X="400" Y="50"/>
+				</Circle>
+				<Circle Handle="10012" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" Radius="20" PathStartParam=".34484925" StartAngle=".78539816">
+					<Center X="930" Y="50"/>
+				</Circle>
+				<Circle Handle="10013" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" Radius="20" PathStartParam=".34484925" StartAngle=".78539816">
+					<Center X="1530" Y="50"/>
+				</Circle>
+				<Circle Handle="10014" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" Radius="20" PathStartParam=".34484925" StartAngle=".78539816">
+					<Center X="1959.6131" Y="50"/>
+				</Circle>
+				<Circle Handle="10015" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" Radius="20" PathStartParam=".34484925" StartAngle=".78539816">
+					<Center X="2130" Y="50"/>
+				</Circle>
+				<Circle Handle="10016" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" Radius="20" PathStartParam=".34484925" StartAngle=".78539816">
+					<Center X="2730" Y="50"/>
+				</Circle>
+				<Circle Handle="10017" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" Radius="20" PathStartParam=".34484925" StartAngle=".78539816">
+					<Center X="3330" Y="50"/>
+				</Circle>
+				<Circle Handle="10018" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" Radius="20" PathStartParam=".34484925" StartAngle=".78539816">
+					<Center X="3930" Y="50"/>
+				</Circle>
+				<LwPolyline Handle="10019" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" LinearName="Continuous" LeadInOptimizeFlag="6" PathStartParam="3" PointCount="6" PolyFlag="1">
+					<Point X="3994.4338" Y="50"/>
+					<Point X="3987.2169" Y="62.5"/>
+					<Point X="3972.7831" Y="62.5"/>
+					<Point X="3965.5662" Y="50"/>
+					<Point X="3972.7831" Y="37.5"/>
+					<Point X="3987.2169" Y="37.5"/>
+				</LwPolyline>
+				<LwPolyline Handle="10020" ChannelPort="1" ColorIdx="98" Color="4227072" LayerName="0" SeqLevel="1024" LinearName="Continuous" IsFill="true" LeadInOptimizeFlag="6" PathStartParam="1" PointCount="4" PolyFlag="1">
+					<Point X="4030" Y="94"/>
+					<Point Y="94"/>
+					<Point/>
+					<Point X="4030"/>
+				</LwPolyline>
+				<Text Handle="10021" ColorIdx="98" Color="4227072" LayerName="打标线" BaseHeight="100" FontName="tssdeng.shx" Height="25" WidthFactor=".7">M226-4
+					<AlignPos X="3769.4163" Y="39.228709"/>
+					<AlignPos2/>
+				</Text>
+				<TopNode>
+					<ShapeNode Handle="9999" Shape="10011"/>
+					<ShapeNode Handle="10000" Shape="10012"/>
+					<ShapeNode Handle="10001" Shape="10013"/>
+					<ShapeNode Handle="10002" Shape="10014"/>
+					<ShapeNode Handle="10003" Shape="10015"/>
+					<ShapeNode Handle="10004" Shape="10016"/>
+					<ShapeNode Handle="10005" Shape="10017"/>
+					<ShapeNode Handle="10006" Shape="10018"/>
+					<ShapeNode Handle="10007" Shape="10019"/>
+					<ShapeNode Handle="10008" Shape="10020"/>
+					<ShapeNode Handle="10009" Shape="10021"/>
+				</TopNode>
+			</Entities>
+			<HomeRef RefType="3"/>
+			<BasePoint/>
+		</TGksNestOriginPart>
+	</NestParts>
+</FsPart>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
